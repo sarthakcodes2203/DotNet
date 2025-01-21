@@ -1,0 +1,14 @@
+C:\Users\tarasankar\Saru\DotNet\demoProject\bin\Debug\net8.0\demoProject.exe
+C:\Users\tarasankar\Saru\DotNet\demoProject\bin\Debug\net8.0\demoProject.deps.json
+C:\Users\tarasankar\Saru\DotNet\demoProject\bin\Debug\net8.0\demoProject.runtimeconfig.json
+C:\Users\tarasankar\Saru\DotNet\demoProject\bin\Debug\net8.0\demoProject.dll
+C:\Users\tarasankar\Saru\DotNet\demoProject\bin\Debug\net8.0\demoProject.pdb
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.AssemblyInfoInputs.cache
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.AssemblyInfo.cs
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.csproj.CoreCompileInputs.cache
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.dll
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\refint\demoProject.dll
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.pdb
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\demoProject.genruntimeconfig.cache
+C:\Users\tarasankar\Saru\DotNet\demoProject\obj\Debug\net8.0\ref\demoProject.dll

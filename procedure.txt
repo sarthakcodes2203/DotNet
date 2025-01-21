@@ -1,0 +1,12 @@
+1.Creating a .Net Project>>>
+(in terminal): dotnet new
+{for specific type of project from the list appeared }: dotnet new <Short Name>
+EX: dotnet new console [Required Files and Folders are createed]
+
+2.Compiling the application>>>
+(in terminal): dotnet build
+
+3.Executing the application>>>
+(in terminal): dotnet run
+{for auto reload and run with every changes}: dotnet watch run
+
